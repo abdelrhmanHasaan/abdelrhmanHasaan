@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m a **Senior AI Engineer** specializing in **production-grade machine learning and Large Language Model (LLM) systems**. I design, build, and deploy end-to-end AI solutions that move from research to **reliable, scalable products**. My expertise spans **Generative AI, Retrieval-Augmented Generation (RAG), NLP, recommendation systems**, and applied deep learning, with a strong focus on **system architecture and real-world performance**.
+I’m an **AI Engineer** specializing in **production-grade machine learning and Large Language Model (LLM) systems**. I design, build, and deploy end-to-end AI solutions that move from research to **reliable, scalable products**. My expertise spans **Generative AI, Retrieval-Augmented Generation (RAG), NLP, recommendation systems**, and applied deep learning, with a strong focus on **system architecture and real-world performance**.
 
 I have led the development of AI systems across the full lifecycle — **data pipelines, model training and fine-tuning, inference services, monitoring, and cloud deployment**. I regularly work with **LLMs, vector databases, and AI agents**, building systems that emphasize **accuracy, latency optimization, and maintainability** in production environments.
 
