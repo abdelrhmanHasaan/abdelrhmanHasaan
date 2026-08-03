@@ -15,6 +15,7 @@
 - 🔭 Building **local, zero-API AI systems** — 4-bit quantized LLMs on consumer GPUs
 - 🧠 Deep in **LangGraph multi-agent pipelines**, **RAG**, and **LoRA fine-tuning**
 - 🎙️ Shipped a full-duplex **Arabic voice tutor** (STT → LLM → RAG → TTS, all local)
+- 🏗️ I care about **designing systems that hold up** — clean architecture, not just working demos
 - 🌱 Studying **AI at Helwan University**, Cairo | 💼 Freelance AI Engineer since 2023
 
 ---
