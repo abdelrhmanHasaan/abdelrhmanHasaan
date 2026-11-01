@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="178" viewBox="0 0 430 178" role="img" aria-label="DevMate">
+<defs>
+<linearGradient id="g5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<linearGradient id="b5" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#f472b6"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="3.5s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="k5"><rect x="1" y="1" width="428" height="176" rx="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="428" height="176" rx="14" fill="url(#g5)" stroke="url(#b5)" stroke-width="1.6"/>
+<g clip-path="url(#k5)">
+<rect x="-80" y="-10" width="50" height="198" fill="#fff" opacity=".05" transform="skewX(-20)"><animate attributeName="x" values="-120;490" dur="5s" begin="3.0s" repeatCount="indefinite"/></rect>
+<circle cx="400" cy="30" r="70" fill="#f472b6" opacity=".10"><animate attributeName="r" values="60;85;60" dur="5s" repeatCount="indefinite"/></circle>
+<rect x="0" y="0" width="5" height="178" fill="#f472b6"/>
+</g>
+<circle cx="28" cy="34" r="5" fill="#f472b6"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="42" y="40" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="700" fill="#f1f5f9">DevMate</text>
+<text x="26" y="64" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#f472b6" letter-spacing=".5">PRODUCTION-GRADE CODING AGENT</text>
+<text x="26" y="92" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#cbd5e1">ReAct loop · policy layers · human approval ·</text>
+<text x="26" y="111" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#cbd5e1">Lua token-bucket limiter · 3-tier memory</text>
+<rect x="26" y="132" width="68" height="24" rx="12" fill="#f472b6" opacity=".14"/><text x="60" y="148" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#f472b6">FastAPI</text><rect x="102.4" y="132" width="83" height="24" rx="12" fill="#f472b6" opacity=".14"/><text x="144" y="148" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#f472b6">Redis Lua</text><rect x="193.2" y="132" width="76" height="24" rx="12" fill="#f472b6" opacity=".14"/><text x="231" y="148" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#f472b6">pgvector</text><text x="406" y="148" text-anchor="end" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#facc15">★ 1</text></svg>
